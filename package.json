@@ -2,7 +2,7 @@
   "name": "petitbouton",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://osmanah.github.io/React-color-liste/",
+  "homepage": "https://osmanah.github.io/React-change-color/",
   "dependencies": {
     "react": "^15.4.2",
     "react-color": "^2.11.4",
