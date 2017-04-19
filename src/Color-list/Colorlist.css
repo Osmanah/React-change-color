@@ -1,0 +1,14 @@
+.color-container {
+  list-style-type: none;
+  margin-top: 1em;
+}
+
+.color-container li button {
+  border: 0;
+  border-radius: 0.4em;
+  color: #FFF;
+  padding: 0.7em;
+  min-width: 53em;
+  height: 3.5em;
+  margin-bottom: 1em
+}
